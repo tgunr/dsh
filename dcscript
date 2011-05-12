@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chgrp admin /etc/hosts
+sudo chmod 664 /etc/hosts
