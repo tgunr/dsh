@@ -1,3 +1,4 @@
+proxmox1.pn
 live1.pn
 live2.pn
 live3.pn
@@ -11,7 +12,6 @@ livedbrep.pn
 www.gamersorb.pn
 db1.pn
 scripts.pn
-csrold.pn
 billing.pn
 auth.pn
 db2.pn
@@ -27,7 +27,7 @@ back1.pn
 redmine.pn
 gmtools.pn
 wiki.pn
-proxmox1.pn
+proxmox1_pl.pn
 proxmox2.pn
 proxmox3.pn
 ldap.pn
@@ -35,9 +35,7 @@ files.pn
 mysqldev.pn
 hctoolsng.pn
 maild.pn
-bge.pn
 paypal.pn
-bgedev.pn
 log.pn
 support.pn
 csr.pn
@@ -50,15 +48,15 @@ csrdev.pn
 kenb.pn
 gwynne.pn
 shivers.pn
+tgunr.pn
 ts.pn
 web2.pn
 web3.pn
 web8.pn
-kingkong_pl.pn
+kingkong.pn
 billdev.pn
 download3.pn
 git.pn
-web7dev.pn
 monitor.pn
 blitz.pn
 hctools1.pn
@@ -66,7 +64,7 @@ dl2.pn
 dns1.pn
 dns2.pn
 invision.pn
-secure_ww.pn
+secure.pn
 netdot.pn
 authdev.pn
 live1dev.pn
@@ -76,4 +74,9 @@ live4dev.pn
 mysql.pn
 vpn.pn
 pilotmc.pn
+live1clone.pn
+cluster1-2.pn
+cluster1-3.pn
+cluster1-4.pn
+livetest.pn
 dl4.pn
